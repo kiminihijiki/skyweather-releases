@@ -2,7 +2,7 @@
 
 SkyWeather のバージョン情報と更新内容を公開しています。
 
-- 最新バージョン: 1.16.4
+- 最新バージョン: 1.16.5
 - 更新確認用データ: [releases.json](releases.json)
 - 更新内容: [Releases](https://github.com/kiminihijiki/skyweather-releases/releases)
 

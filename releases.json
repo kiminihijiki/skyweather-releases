@@ -1,20 +1,8 @@
 {
   "packages": {
-    "ambience": {
-      "files": {
-        "Assets/Harigaya/SkyWeather/Ambience/Editor/SkyWeatherAmbienceEditor.cs": "b356602fe614b3b2de7ebabc05e7dd9340dd407fb350379708025cf61cc8ca01",
-        "Assets/Harigaya/SkyWeather/Ambience/Editor/SkyWeatherSetup.Audio.cs": "86cf2347199268fdab01ed7008362987c6c521d5f97a22126ed7ea30b390a0a7",
-        "Assets/Harigaya/SkyWeather/Ambience/Scripts/SW_AmbienceLayer.cs": "6d63f6c36eef5354a159a9ecf8807645c800966046a8040e14dcc4fbbb677b5d",
-        "Assets/Harigaya/SkyWeather/Ambience/Scripts/SW_AmbienceModule.cs": "279e101e55f856177939774484d42c82662930a3c9a4069783abed9fe03f00e3",
-        "Assets/Harigaya/SkyWeather/Ambience/Scripts/SW_AudioDirector.cs": "3c365f67f973032760820d5b90e141495366217f5cafc67ed604f14db32b7aad",
-        "Assets/Harigaya/SkyWeather/Ambience/Scripts/SW_AudioZone.cs": "a4d0af541c729edd58079d00168cbfd36f24c053a0f263cb1904db272c2d1991"
-      },
-      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/ambience-v1.16.4",
-      "version": "1.16.4"
-    },
     "core": {
       "files": {
-        "Assets/Harigaya/SkyWeather/Core/Editor/Release/SkyWeatherReleaseCommon.cs": "72b1207a31768e96d64b00c521a4c5464dc7daeb635a8661dda0efc931128121",
+        "Assets/Harigaya/SkyWeather/Core/Editor/Release/SkyWeatherReleaseCommon.cs": "e5c0ae55519f22195587b158632aaa498111bedcaa88d5b037443dea2c9fd809",
         "Assets/Harigaya/SkyWeather/Core/Editor/Release/SkyWeatherUpdateCheck.cs": "d0dea699fd987510eb81a8a345723b65830e74d32539f1a051498b038e9c6613",
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherCalendar.cs": "bbc060ccaa5466f4ac8af65c4cda28c80365a6bf24477b3e2ecd2dd7225b527b",
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherGUI.cs": "64091bd5835c1abbe4b170486510b98fc8d90e27c548c40575bc81968d51ecb8",
@@ -25,14 +13,14 @@
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherProfileDefaults.cs": "6fa4e7f75116e96b40c9ed2956e87b81f86d4dfd88ca6c32139321140373f186",
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.Materials.cs": "3e84ddc10a6a3d479f38e2b2a030420d9f4b2e80bd9c23375c16b714dcbc2ec3",
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.Particles.cs": "c1e3d68dc357a323aedb38911702b7709f0834b4e5c074bd0d2b105873952f41",
-        "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.cs": "dfcfb5b10dc32a0a6efecece58ac2595aa272955f47608289f85a536a9f947a7",
-        "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetupWindow.cs": "eb3677a3f9b93131da9ef399924bded7ee8e1521c50fa2af5f527f3482bec5da",
+        "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.cs": "b6bba4b7d7152cf6c3d13373fbaeca642dd7690dc6ff02a696e98fcef7da3582",
+        "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetupWindow.cs": "858e6c61d5dda4202f79ed2822ceb1048b8d29871975b1ab99c56bbb84d92517",
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherShaderHubs.cs": "82d6566239563a3e639e174a2d187d41e12fe78297a708d5fe265bc905b0c024",
         "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherUpgrade.cs": "42ca1741e2315915d3e29cb7eab7ac114b8b78136ea2c54c7b9d2003038cbfba",
         "Assets/Harigaya/SkyWeather/Core/Scripts/SW_Button.cs": "ad55872b182af050d66ff4325d573b02f76adaecfbe2c18eed0586e10a7774d8",
         "Assets/Harigaya/SkyWeather/Core/Scripts/SW_EffectZone.cs": "0b0fc8e5cebc364183632d2ab60c76c4dd54f5067a1e98ec988c29e8cf3d930b",
         "Assets/Harigaya/SkyWeather/Core/Scripts/SW_Module.cs": "f8dc024a6b6272b1fcfb244901ecd2030676e230e8118337fe09af3d24807fa5",
-        "Assets/Harigaya/SkyWeather/Core/Scripts/SW_SkyController.cs": "9cef8cc1e4229d211870075fd85d71461c9e0077df1653c82192332c0ea4b6c6",
+        "Assets/Harigaya/SkyWeather/Core/Scripts/SW_SkyController.cs": "ae27c3cd693a14f840cdabf396bb9fd7e33e093ec0e451d0f837adcfcf9e90fc",
         "Assets/Harigaya/SkyWeather/Core/Scripts/SW_StatusText.cs": "98ef0cd1cafdd5e45b76b6d0322a4e4640b43a9e0edf3ccc3cce7a8a395464eb",
         "Assets/Harigaya/SkyWeather/Core/Scripts/SW_WeatherParticle.cs": "eefc6e56dff955dfeaadea493196f6281ff1e5d4e6b7b0988cb99e3bafefb94d",
         "Assets/Harigaya/SkyWeather/Core/Scripts/SW_WeatherProfile.cs": "b499c37b9eea5a4e4a8837076e3c17dc79d9bbae444b1394f9dc6cdc7605bf81",
@@ -49,55 +37,134 @@
         "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_Pill.png": "f98210cc3dfdda69a707938541942cfb82fcc05fdedb1001dd01f9bd1e712082",
         "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_SeasonTrack.png": "a401d8eff6bcd956eff403f435ca6a96a7c303a730d1ffa64441091100a5315a",
         "Assets/Harigaya/SkyWeather/LICENSE.md": "7a50dc7bdf15a1a35861202c0d1070098273e3385c5bd5f9606bc0225eb2665a",
-        "Assets/Harigaya/SkyWeather/LICENSE/SkyWeather_License_en.pdf": "4883c3dfcc69696f9b1b42a65fa6363b5d901f277baf342b0622677714106fcb",
-        "Assets/Harigaya/SkyWeather/LICENSE/SkyWeather_License_ja.pdf": "d226eda549e09c1ef7e1c0f0f8cefe240472730d7025d38ab54d34e511c35793",
-        "Assets/Harigaya/SkyWeather/LICENSE/SkyWeather_License_ko.pdf": "5eee5315588803b3a4629b99968881ea3207d10f1346dab4ec29832823511adb",
-        "Assets/Harigaya/SkyWeather/LICENSE/SkyWeather_License_zh.pdf": "37dbf51ee5cdc2ea5686d85d73af94f6fb1c8bc1addc8d1356a4cff9938497a8",
         "Assets/Harigaya/SkyWeather/License/SkyWeather_License_en.pdf": "4883c3dfcc69696f9b1b42a65fa6363b5d901f277baf342b0622677714106fcb",
         "Assets/Harigaya/SkyWeather/License/SkyWeather_License_ja.pdf": "d226eda549e09c1ef7e1c0f0f8cefe240472730d7025d38ab54d34e511c35793",
         "Assets/Harigaya/SkyWeather/License/SkyWeather_License_ko.pdf": "5eee5315588803b3a4629b99968881ea3207d10f1346dab4ec29832823511adb",
         "Assets/Harigaya/SkyWeather/License/SkyWeather_License_zh.pdf": "37dbf51ee5cdc2ea5686d85d73af94f6fb1c8bc1addc8d1356a4cff9938497a8",
-        "Assets/Harigaya/SkyWeather/README.md": "1398158a8aa190d2628bd5d76bd00ab0c0940fb383ff297e32a2fd563bf633dd"
+        "Assets/Harigaya/SkyWeather/README.md": "106914d5aade0221d0414349e58762a5040cdb4a2188eaec7a2789e71d1ca33f"
       },
-      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/core-v1.16.4",
-      "version": "1.16.4"
+      "history": {
+        "1.16.4": {
+          "files": {
+            "Assets/Harigaya/SkyWeather/Core/Editor/Release/SkyWeatherReleaseCommon.cs": "72b1207a31768e96d64b00c521a4c5464dc7daeb635a8661dda0efc931128121",
+            "Assets/Harigaya/SkyWeather/Core/Editor/Release/SkyWeatherUpdateCheck.cs": "d0dea699fd987510eb81a8a345723b65830e74d32539f1a051498b038e9c6613",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherCalendar.cs": "bbc060ccaa5466f4ac8af65c4cda28c80365a6bf24477b3e2ecd2dd7225b527b",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherGUI.cs": "64091bd5835c1abbe4b170486510b98fc8d90e27c548c40575bc81968d51ecb8",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherModules.cs": "ff0f4b5170fe307a00901a420c83f6fbdfba053d04f9a342ac45327ca8f12540",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherPanel.cs": "38a1f92fc48b5d2dfac3e6be85f42a14a45bc5aa8737b7718d4df2a16faf5091",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherPanelVersionStamp.cs": "d92d0c01bc8f9758433ac5b95a04b3fff4fbf50664080ecd13f5776b0071c6a2",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherPreviewWindow.cs": "dea24269b3c5c43cb3b8a6107b68746088e20d721d00fb2cbce6534e20fa0755",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherProfileDefaults.cs": "6fa4e7f75116e96b40c9ed2956e87b81f86d4dfd88ca6c32139321140373f186",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.Materials.cs": "3e84ddc10a6a3d479f38e2b2a030420d9f4b2e80bd9c23375c16b714dcbc2ec3",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.Particles.cs": "c1e3d68dc357a323aedb38911702b7709f0834b4e5c074bd0d2b105873952f41",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetup.cs": "dfcfb5b10dc32a0a6efecece58ac2595aa272955f47608289f85a536a9f947a7",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherSetupWindow.cs": "eb3677a3f9b93131da9ef399924bded7ee8e1521c50fa2af5f527f3482bec5da",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherShaderHubs.cs": "82d6566239563a3e639e174a2d187d41e12fe78297a708d5fe265bc905b0c024",
+            "Assets/Harigaya/SkyWeather/Core/Editor/SkyWeatherUpgrade.cs": "42ca1741e2315915d3e29cb7eab7ac114b8b78136ea2c54c7b9d2003038cbfba",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_Button.cs": "ad55872b182af050d66ff4325d573b02f76adaecfbe2c18eed0586e10a7774d8",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_EffectZone.cs": "0b0fc8e5cebc364183632d2ab60c76c4dd54f5067a1e98ec988c29e8cf3d930b",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_Module.cs": "f8dc024a6b6272b1fcfb244901ecd2030676e230e8118337fe09af3d24807fa5",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_SkyController.cs": "9cef8cc1e4229d211870075fd85d71461c9e0077df1653c82192332c0ea4b6c6",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_StatusText.cs": "98ef0cd1cafdd5e45b76b6d0322a4e4640b43a9e0edf3ccc3cce7a8a395464eb",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_WeatherParticle.cs": "eefc6e56dff955dfeaadea493196f6281ff1e5d4e6b7b0988cb99e3bafefb94d",
+            "Assets/Harigaya/SkyWeather/Core/Scripts/SW_WeatherProfile.cs": "b499c37b9eea5a4e4a8837076e3c17dc79d9bbae444b1394f9dc6cdc7605bf81",
+            "Assets/Harigaya/SkyWeather/Core/Shaders/SkyWeather_Common.cginc": "823c0183b2eb9ffc14d0dedaf3beb661d01299b8ea8d3ebd2ae0cf9f0b7e4e9a",
+            "Assets/Harigaya/SkyWeather/Core/Shaders/SkyWeather_Lit.shader": "6a70ad9f0c0dff283bd97c3eca237f4d0192f7f658257f18e32a4be9bf4360a4",
+            "Assets/Harigaya/SkyWeather/Core/Shaders/SkyWeather_Precipitation.shader": "1e12a54c733c95f283ed66d14640815f113c65005c4279e549239afa39755006",
+            "Assets/Harigaya/SkyWeather/Core/Shaders/SkyWeather_Skybox.shader": "d562de15503e4bbecc5fa65a80d9f980f91ede6ec99b8f802bb223fa390febee",
+            "Assets/Harigaya/SkyWeather/Core/Shaders/SkyWeather_UIPanel.shader": "d0368ec4d24489936881ea8ee7c2e72df99264197fb23902d49f04ebaca5d7a2",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_Circle.png": "f98210cc3dfdda69a707938541942cfb82fcc05fdedb1001dd01f9bd1e712082",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_Glow.png": "417ff3e0c2af6247efb44facf954a2465462b42cf4465854a4f8e7f0501d45a8",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_HourTrack.png": "106f1a8d5dbe05d36ee3ec66eb3584a0e5f29ab413390da0f3f8723b4d03d970",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_Panel.png": "2c7b33060e020b0be6b38afc32e04d8e6bd04efbaa10b3e1f81e53d70b91f16f",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_PanelStroke.png": "ac42cb4d37a6a97e97d79c35baa9ed953ddcfaa1bb0b504b735ad21bfd5f441c",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_Pill.png": "f98210cc3dfdda69a707938541942cfb82fcc05fdedb1001dd01f9bd1e712082",
+            "Assets/Harigaya/SkyWeather/Core/UI/SW_UI_SeasonTrack.png": "a401d8eff6bcd956eff403f435ca6a96a7c303a730d1ffa64441091100a5315a",
+            "Assets/Harigaya/SkyWeather/LICENSE.md": "7a50dc7bdf15a1a35861202c0d1070098273e3385c5bd5f9606bc0225eb2665a",
+            "Assets/Harigaya/SkyWeather/License/SkyWeather_License_en.pdf": "4883c3dfcc69696f9b1b42a65fa6363b5d901f277baf342b0622677714106fcb",
+            "Assets/Harigaya/SkyWeather/License/SkyWeather_License_ja.pdf": "d226eda549e09c1ef7e1c0f0f8cefe240472730d7025d38ab54d34e511c35793",
+            "Assets/Harigaya/SkyWeather/License/SkyWeather_License_ko.pdf": "5eee5315588803b3a4629b99968881ea3207d10f1346dab4ec29832823511adb",
+            "Assets/Harigaya/SkyWeather/License/SkyWeather_License_zh.pdf": "37dbf51ee5cdc2ea5686d85d73af94f6fb1c8bc1addc8d1356a4cff9938497a8",
+            "Assets/Harigaya/SkyWeather/README.md": "1398158a8aa190d2628bd5d76bd00ab0c0940fb383ff297e32a2fd563bf633dd"
+          }
+        }
+      },
+      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/core-v1.16.5",
+      "version": "1.16.5"
     },
     "season": {
       "files": {
         "Assets/Harigaya/SkyWeather/Season/Editor/SkyWeatherSeasonEditor.cs": "81557baef2d905efb502ac1c2f0f71f0a27ffd73530d3d3a0e96f95d7e6aa3b9",
-        "Assets/Harigaya/SkyWeather/Season/Scripts/SW_SeasonModule.cs": "3d690ad60def12b3aa81190fc772ce5de8594941703954c865c3faa7588187bf",
+        "Assets/Harigaya/SkyWeather/Season/Scripts/SW_SeasonModule.cs": "f2074a1c7d78a0b9ee266e8a6328213517c216ddae34917a148dea5c23adae9c",
         "Assets/Harigaya/SkyWeather/Season/Shaders/SW_Season_Foliage.cginc": "436219e237bb7d65a0a1795db84395cb4eee7a4441c6e8db0213f0fb1db55ad0",
         "Assets/Harigaya/SkyWeather/Season/Shaders/SkyWeather_TowerCache.shader": "30e2d5076c27b1b33c1d22672695e7bc359fc5f4f5938317847389d9a3263be0",
         "Assets/Harigaya/SkyWeather/Season/Shaders/SkyWeather_Towers.cginc": "923515b626f6bb9a371283cd2f461eaf6661e0cacdc6956bc03bd006f7f9152e"
       },
-      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/season-v1.16.4",
-      "version": "1.16.4"
+      "history": {
+        "1.16.4": {
+          "files": {
+            "Assets/Harigaya/SkyWeather/Season/Editor/SkyWeatherSeasonEditor.cs": "81557baef2d905efb502ac1c2f0f71f0a27ffd73530d3d3a0e96f95d7e6aa3b9",
+            "Assets/Harigaya/SkyWeather/Season/Scripts/SW_SeasonModule.cs": "3d690ad60def12b3aa81190fc772ce5de8594941703954c865c3faa7588187bf",
+            "Assets/Harigaya/SkyWeather/Season/Shaders/SW_Season_Foliage.cginc": "436219e237bb7d65a0a1795db84395cb4eee7a4441c6e8db0213f0fb1db55ad0",
+            "Assets/Harigaya/SkyWeather/Season/Shaders/SkyWeather_TowerCache.shader": "30e2d5076c27b1b33c1d22672695e7bc359fc5f4f5938317847389d9a3263be0",
+            "Assets/Harigaya/SkyWeather/Season/Shaders/SkyWeather_Towers.cginc": "923515b626f6bb9a371283cd2f461eaf6661e0cacdc6956bc03bd006f7f9152e"
+          }
+        }
+      },
+      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/season-v1.16.5",
+      "version": "1.16.5"
     },
     "time": {
       "files": {
         "Assets/Harigaya/SkyWeather/Time/Editor/SkyWeatherSkyTextures.cs": "8a72f678253e9be55cf9f0c625b9554f1eb9c717e8ed04ef9658a14e85e4396d",
         "Assets/Harigaya/SkyWeather/Time/Editor/SkyWeatherStarMap.cs": "ab7dceca7de5a883d224a9229f436e5074ffc8c952ffb52ae6ae83b651e2f0c9",
         "Assets/Harigaya/SkyWeather/Time/Editor/SkyWeatherTimeEditor.cs": "2a1bc5835c96ca24e0f956555b9ed1289e458da18f59bd29d75391e06d425676",
-        "Assets/Harigaya/SkyWeather/Time/Scripts/SW_TimeModule.cs": "849a63a5d77c724d40674b195c2cd8c273d521bce19ba98ffe0269f5b0a71f71",
+        "Assets/Harigaya/SkyWeather/Time/Scripts/SW_TimeModule.cs": "9249ec61de7c09a41bf499dc05d040876fdf80b08c312f713c2c7c82450ef715",
         "Assets/Harigaya/SkyWeather/Time/Shaders/SW_Time_Stars.cginc": "8e145b4cd9b74df940d196cb49932444a0d3fb2e7177601d55893cdb63a1de5b",
         "Assets/Harigaya/SkyWeather/Time/Textures/SW_MilkyWay.png": "528af1387767d8b84ec75ce9e7423ac601b1a0d40b26f9c4668bf1879b8c6c66",
         "Assets/Harigaya/SkyWeather/Time/Textures/SW_StarCatalog.png": "3c29efefd29ea360135cfaabe6a92c82ea7d0f1d03a8b27231dc1acc4a8e076d"
       },
-      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/time-v1.16.4",
-      "version": "1.16.4"
+      "history": {
+        "1.16.4": {
+          "files": {
+            "Assets/Harigaya/SkyWeather/Time/Editor/SkyWeatherSkyTextures.cs": "8a72f678253e9be55cf9f0c625b9554f1eb9c717e8ed04ef9658a14e85e4396d",
+            "Assets/Harigaya/SkyWeather/Time/Editor/SkyWeatherStarMap.cs": "ab7dceca7de5a883d224a9229f436e5074ffc8c952ffb52ae6ae83b651e2f0c9",
+            "Assets/Harigaya/SkyWeather/Time/Editor/SkyWeatherTimeEditor.cs": "2a1bc5835c96ca24e0f956555b9ed1289e458da18f59bd29d75391e06d425676",
+            "Assets/Harigaya/SkyWeather/Time/Scripts/SW_TimeModule.cs": "849a63a5d77c724d40674b195c2cd8c273d521bce19ba98ffe0269f5b0a71f71",
+            "Assets/Harigaya/SkyWeather/Time/Shaders/SW_Time_Stars.cginc": "8e145b4cd9b74df940d196cb49932444a0d3fb2e7177601d55893cdb63a1de5b",
+            "Assets/Harigaya/SkyWeather/Time/Textures/SW_MilkyWay.png": "528af1387767d8b84ec75ce9e7423ac601b1a0d40b26f9c4668bf1879b8c6c66",
+            "Assets/Harigaya/SkyWeather/Time/Textures/SW_StarCatalog.png": "3c29efefd29ea360135cfaabe6a92c82ea7d0f1d03a8b27231dc1acc4a8e076d"
+          }
+        }
+      },
+      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/time-v1.16.5",
+      "version": "1.16.5"
     },
     "weather": {
       "files": {
         "Assets/Harigaya/SkyWeather/Weather/Editor/SkyWeatherWeatherEditor.cs": "d4e24cff494b19d144acd142a1f0686e52a9828123a835564dbee66c156ab639",
         "Assets/Harigaya/SkyWeather/Weather/Scripts/SW_Lightning.cs": "eab64eee3bc671a8790b83bdfe4bef041ac603682686ddf2055c25c25f641abd",
-        "Assets/Harigaya/SkyWeather/Weather/Scripts/SW_WeatherModule.cs": "441f2d84361cf743c3a6522788fcb66ef9b8c1bc520adf5676dd91ec549d5b5e",
+        "Assets/Harigaya/SkyWeather/Weather/Scripts/SW_WeatherModule.cs": "e02c4aead966323a01701dc1af19fe1397e3f3cb2736a53ce0e307313010acee",
         "Assets/Harigaya/SkyWeather/Weather/Shaders/SW_Weather_Bolt.cginc": "0bb97f948bbe48f397a969af724c9932cbc33d2ba65daddd999024a71a2b38b5",
         "Assets/Harigaya/SkyWeather/Weather/Shaders/SW_Weather_Sky.cginc": "9e50e1911455a7f2f584dec93e7d96b693bbb04397cdd99fb2b1f92edc58ed05",
         "Assets/Harigaya/SkyWeather/Weather/Shaders/SW_Weather_Surface.cginc": "7ac9786c57af3f25caeee03e313c5a0e524283085aa0cddebe35c8da67666b96",
         "Assets/Harigaya/SkyWeather/Weather/Shaders/SkyWeather_FogVolume.shader": "69aebfe3da412a7b5ebdf703a958b0cac0202dcf8ef4f27f73b5a4183ae3e6e7"
       },
-      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/weather-v1.16.4",
-      "version": "1.16.4"
+      "history": {
+        "1.16.4": {
+          "files": {
+            "Assets/Harigaya/SkyWeather/Weather/Editor/SkyWeatherWeatherEditor.cs": "d4e24cff494b19d144acd142a1f0686e52a9828123a835564dbee66c156ab639",
+            "Assets/Harigaya/SkyWeather/Weather/Scripts/SW_Lightning.cs": "eab64eee3bc671a8790b83bdfe4bef041ac603682686ddf2055c25c25f641abd",
+            "Assets/Harigaya/SkyWeather/Weather/Scripts/SW_WeatherModule.cs": "441f2d84361cf743c3a6522788fcb66ef9b8c1bc520adf5676dd91ec549d5b5e",
+            "Assets/Harigaya/SkyWeather/Weather/Shaders/SW_Weather_Bolt.cginc": "0bb97f948bbe48f397a969af724c9932cbc33d2ba65daddd999024a71a2b38b5",
+            "Assets/Harigaya/SkyWeather/Weather/Shaders/SW_Weather_Sky.cginc": "9e50e1911455a7f2f584dec93e7d96b693bbb04397cdd99fb2b1f92edc58ed05",
+            "Assets/Harigaya/SkyWeather/Weather/Shaders/SW_Weather_Surface.cginc": "7ac9786c57af3f25caeee03e313c5a0e524283085aa0cddebe35c8da67666b96",
+            "Assets/Harigaya/SkyWeather/Weather/Shaders/SkyWeather_FogVolume.shader": "69aebfe3da412a7b5ebdf703a958b0cac0202dcf8ef4f27f73b5a4183ae3e6e7"
+          }
+        }
+      },
+      "notes": "https://github.com/kiminihijiki/skyweather-releases/releases/tag/weather-v1.16.5",
+      "version": "1.16.5"
     }
   },
   "schema": 1
